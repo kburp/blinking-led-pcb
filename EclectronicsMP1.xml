@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\kburpee\Documents\KiCad\6.0\projects\EclectronicsMP1\EclectronicsMP1.kicad_sch</source>
+    <date>9/11/2022 4:12:24 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Eclectronics Mini-project 1</title>
+        <company>Olin College of Engineering</company>
+        <rev/>
+        <date/>
+        <source>EclectronicsMP1.kicad_sch</source>
+        <comment number="1" value="Kenta Burpee"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>CC0603JRX7R9BB104</value>
+      <footprint>EclectronicsMP1:CAPC1608X90</footprint>
+      <libsource lib="EclectronicsMP1" part="CC0603JRX7R9BB104" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e314231b-1be8-485a-8bcd-12b7904ad49b</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C0603C105K3RACTU</value>
+      <footprint>EclectronicsMP1:CAPC1608X90</footprint>
+      <libsource lib="EclectronicsMP1" part="C0603C105K3RACTU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5650b851-2560-46d2-9522-db16c59a7345</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C0603C105K3RACTU</value>
+      <footprint>EclectronicsMP1:CAPC1608X90</footprint>
+      <libsource lib="EclectronicsMP1" part="C0603C105K3RACTU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2f4888d-4f23-4ac9-8e39-121db48cc680</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>CC0603JRX7R9BB104</value>
+      <footprint>EclectronicsMP1:CAPC1608X90</footprint>
+      <libsource lib="EclectronicsMP1" part="CC0603JRX7R9BB104" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f7b92b6-145a-4734-ba17-8bf200fd0f47</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LTST-C171KRKT</value>
+      <footprint>EclectronicsMP1:DIOC200X125X110</footprint>
+      <fields>
+        <field name="MANUFACTURER">LiteOn</field>
+      </fields>
+      <libsource lib="EclectronicsMP1" part="LTST-C171KRKT" description=""/>
+      <property name="MANUFACTURER" value="LiteOn"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7aaa61ee-9acf-4e2e-8b71-26fa512e0bbf</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>48037-0001</value>
+      <footprint>EclectronicsMP1:MOLEX_48037-0001</footprint>
+      <fields>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.6mm</field>
+        <field name="PARTREV">D</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="EclectronicsMP1" part="48037-0001" description=""/>
+      <property name="PARTREV" value="D"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="4.6mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e627106-268d-413a-b1ae-3a89a99a43ca</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>RC0603FR-071K43L</value>
+      <footprint>EclectronicsMP1:RC0603FR-071K43L</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-071K43L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1741bc8-bb54-40c5-a39d-fe509fdecaf8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>RC0603FR-078K06L</value>
+      <footprint>EclectronicsMP1:RC0603FR-078K06L</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-078K06L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04861216-1eaf-4055-ae77-c4eebf85ae59</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>RC0603FR-072ML</value>
+      <footprint>EclectronicsMP1:RC0603FR-072ML</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-072ML" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eaf31f2d-34b5-45ef-807a-33a2ae6d7a97</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>RC0603FR-07100RL</value>
+      <footprint>EclectronicsMP1:RC0603FR-07100RL</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-07100RL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eedfc0a8-6eeb-4708-a723-db9327e24fad</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>RC0603FR-07100RL</value>
+      <footprint>EclectronicsMP1:RC0603FR-07100RL</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-07100RL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e29f027-4aed-4e61-931b-260090d28ac6</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>RC0603FR-0763R4L</value>
+      <footprint>EclectronicsMP1:RC0603FR-0763R4L</footprint>
+      <libsource lib="EclectronicsMP1" part="RC0603FR-0763R4L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>866e92e2-4fd5-4da1-b426-16ff08b7c6c7</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP1702T-3302E/CB</value>
+      <footprint>EclectronicsMP1:MCP1702T-3302E&amp;slash_CB</footprint>
+      <libsource lib="EclectronicsMP1" part="MCP1702T-3302E{brace}slash}CB" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82e0178d-05e8-4920-a855-5fad297274f8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP6021T-E/OT</value>
+      <footprint>EclectronicsMP1:MCP6021T-E&amp;slash_OT</footprint>
+      <libsource lib="EclectronicsMP1" part="MCP6021T-E{brace}slash}OT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="EclectronicsMP1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4317e907-dfa8-4568-95a9-51201e9ea227</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="EclectronicsMP1" part="48037-0001">
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">48037-0001</field>
+        <field name="Footprint">EclectronicsMP1:MOLEX_48037-0001</field>
+        <field name="PARTREV">D</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.6mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">Molex</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="C0603C105K3RACTU">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C0603C105K3RACTU</field>
+        <field name="Footprint">CAPC1608X90</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="CC0603JRX7R9BB104">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CC0603JRX7R9BB104</field>
+        <field name="Footprint">CAPC1608X90</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="LTST-C171KRKT">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LTST-C171KRKT</field>
+        <field name="Footprint">DIOC200X125X110</field>
+        <field name="MANUFACTURER">LiteOn</field>
+      </fields>
+      <pins>
+        <pin num="+" name="" type="passive"/>
+        <pin num="-" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="MCP1702T-3302E{brace}slash}CB">
+      <footprints>
+        <fp>SOT-23A_MC_MCH</fp>
+        <fp>SOT-23A_MC_MCH-M</fp>
+        <fp>SOT-23A_MC_MCH-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">MCP1702T-3302E/CB</field>
+        <field name="Footprint">EclectronicsMP1:MCP1702T-3302E&amp;slash_CB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VOUT" type="power_out"/>
+        <pin num="3" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="MCP6021T-E{brace}slash}OT">
+      <footprints>
+        <fp>SOT-23-5_MC_MCH</fp>
+        <fp>SOT-23-5_MC_MCH-M</fp>
+        <fp>SOT-23-5_MC_MCH-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">MCP6021T-E{slash}OT</field>
+        <field name="Footprint">EclectronicsMP1:MCP6021T-E&amp;slash_OT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VIN+" type="input"/>
+        <pin num="4" name="VIN-" type="input"/>
+        <pin num="5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="RC0603FR-07100RL">
+      <footprints>
+        <fp>RC0603N_YAG</fp>
+        <fp>RC0603N_YAG-M</fp>
+        <fp>RC0603N_YAG-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-07100RL</field>
+        <field name="Footprint">RC0603N_YAG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="RC0603FR-071K43L">
+      <footprints>
+        <fp>RC0603N_YAG</fp>
+        <fp>RC0603N_YAG-M</fp>
+        <fp>RC0603N_YAG-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-071K43L</field>
+        <field name="Footprint">RC0603N_YAG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="RC0603FR-072ML">
+      <footprints>
+        <fp>RC0603N_YAG</fp>
+        <fp>RC0603N_YAG-M</fp>
+        <fp>RC0603N_YAG-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-072ML</field>
+        <field name="Footprint">RC0603N_YAG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="RC0603FR-0763R4L">
+      <footprints>
+        <fp>RC0603N_YAG</fp>
+        <fp>RC0603N_YAG-M</fp>
+        <fp>RC0603N_YAG-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-0763R4L</field>
+        <field name="Footprint">RC0603N_YAG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EclectronicsMP1" part="RC0603FR-078K06L">
+      <footprints>
+        <fp>RC0603N_YAG</fp>
+        <fp>RC0603N_YAG-M</fp>
+        <fp>RC0603N_YAG-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RC0603FR-078K06L</field>
+        <field name="Footprint">RC0603N_YAG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="EclectronicsMP1">
+      <uri>C:\Users\kburpee\Documents\KiCad\6.0\projects\EclectronicsMP1/EclectronicsMP1.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="2" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="VIN-" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U2" pin="5" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad+)">
+      <node ref="D1" pin="+" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad-)">
+      <node ref="D1" pin="-" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VIN+" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="unconnected-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="10" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="11" name="unconnected-(J1-PadS1)">
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(J1-PadS2)">
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
